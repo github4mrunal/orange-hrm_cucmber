@@ -1,0 +1,12 @@
+2021-07-01 22:07:718 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-01 22:07:208 INFO  Homepage :27 - CLicking on Username[[ChromeDriver: chrome on WINDOWS (2791bbe2c98f9c272cddc4e1b9b5432d)] -> xpath: //input[@id='txtUsername']]
+2021-07-01 22:07:433 INFO  Homepage :32 - Clicking on Password[[ChromeDriver: chrome on WINDOWS (2791bbe2c98f9c272cddc4e1b9b5432d)] -> xpath: //input[@id='txtPassword']]
+2021-07-01 22:07:658 INFO  Homepage :36 - CLicking on Login Button[[ChromeDriver: chrome on WINDOWS (2791bbe2c98f9c272cddc4e1b9b5432d)] -> xpath: //input[@id = 'btnLogin']]
+2021-07-01 22:07:448 INFO  AdminPage :25 - Verifying and Clicking on Welcome Text[[ChromeDriver: chrome on WINDOWS (2791bbe2c98f9c272cddc4e1b9b5432d)] -> xpath: //a[@id = 'welcome']]
+2021-07-01 22:07:221 INFO  BasePage :34 - Launching Chrome Browser 
+2021-07-01 22:07:09 INFO  Homepage :27 - CLicking on Username[[ChromeDriver: chrome on WINDOWS (0804d853d90506260cd5dcb3e01b32d3)] -> xpath: //input[@id='txtUsername']]
+2021-07-01 22:07:436 INFO  Homepage :32 - Clicking on Password[[ChromeDriver: chrome on WINDOWS (0804d853d90506260cd5dcb3e01b32d3)] -> xpath: //input[@id='txtPassword']]
+2021-07-01 22:07:673 INFO  Homepage :36 - CLicking on Login Button[[ChromeDriver: chrome on WINDOWS (0804d853d90506260cd5dcb3e01b32d3)] -> xpath: //input[@id = 'btnLogin']]
+2021-07-01 22:07:247 INFO  AdminPage :25 - Verifying and Clicking on Welcome Text[[ChromeDriver: chrome on WINDOWS (0804d853d90506260cd5dcb3e01b32d3)] -> xpath: //a[@id = 'welcome']]
+2021-07-01 22:07:964 INFO  AdminPage :21 - Clicking on Log Out ButtonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Logout')]'
+2021-07-01 22:07:998 INFO  Homepage :41 - Verifying Login Panel Text[[ChromeDriver: chrome on WINDOWS (0804d853d90506260cd5dcb3e01b32d3)] -> xpath: //div[@id ='logInPanelHeading']]
